@@ -1,7 +1,8 @@
 # 💫 About Me:
-I'm just a Computer Science Engineer at PES University.
-
-📌Check out my pinned Repos!
+🚀 CS Engineer @ PES University
+🤖 AI/ML Enthusiast | Staying ahead with the latest trends & innovations
+🏆 Hackathon Junkie | Love building cool projects under *pressure*
+📌 Check out my pinned repos!
 
 
 ## 🌐 Socials:
