@@ -1,7 +1,10 @@
 # 💫 About Me:
 🚀 CS Engineer @ PES University
+
 🤖 AI/ML Enthusiast | Staying ahead with the latest trends & innovations
+
 🏆 Hackathon Junkie | Love building cool projects under *pressure*
+
 📌 Check out my pinned repos!
 
 
