@@ -1,4 +1,5 @@
 # 💫 About Me:
+![](https://komarev.com/ghpvc/?username=Bhav-Hub&color=orange)
 🚀 CS Engineer @ PES University
 
 🤖 AI/ML Enthusiast | Staying ahead with the latest trends & innovations
