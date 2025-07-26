@@ -1,5 +1,5 @@
 # 💫 About Me:
-!<!--[](https://komarev.com/ghpvc/?username=Bhav-Hub&color=orange)-->
+<!--[](https://komarev.com/ghpvc/?username=Bhav-Hub&color=orange)-->
 
 🚀 CS Engineer @ PES University
 
